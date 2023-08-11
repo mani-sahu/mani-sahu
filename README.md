@@ -10,7 +10,7 @@
 </p>
 
 ### 🌱 <b> Full Stack Developer</b>
-🔭 I’m currently working on [Night Canteen Ordering Portal](https://github.com/BhumicaPG/IITISoC-23-Web-19-Night_Canteen_Ordering_Portal)
+
 
 <details open="true">
 <summary><span><b>📫Connect with me</b></span></summary>
