@@ -1,5 +1,5 @@
 
-## Hola! 👋 This is <b>Manisha Sahu:smiling_imp:</b>
+## Hola! 👋 This is <b>Manisha Sahu😈 </b>
 <!-- ### Software Developer -->
 <span align="right"> <img src="https://komarev.com/ghpvc/?username=mani-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="mani-sahu" /></span> 
 
